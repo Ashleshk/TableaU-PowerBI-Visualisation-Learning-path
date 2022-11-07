@@ -1,0 +1,66 @@
+# TableaU And PowerBI Projects
+* learning from **@TableaU resources**
+
+let me start with amazing Escape room problem... 
+available at link - [link](https://public.tableau.com/app/profile/mark.bradbourne/viz/EscapeRoom/CanYouEscape)
+
+![Escape Room Problem](https://github.com/Ashleshk/TableaU-PowerBI-Visualisation-Projects/blob/main/Data%20Scientist/Escape%20Room%20%231.png?raw=true)
+
+Well, I was able to Solve all of them within 10-15mins. That what data Analytics are empowered with Visualization tools which help them to analyze and take factual decision to help business grow.
+![Congratulations](https://github.com/Ashleshk/TableaU-PowerBI-Visualisation-Projects/blob/main/Data%20Scientist/Escape%20Room%20Problem.PNG)
+
+## About the Structure of this repository
+I have categorized TableaU related following tracks
+1. **Data Scientist**
+2. **Analyst**
+3. **Consumer**
+
+
+Let me start with Data Scientist
+## Data Scientist Track
+
+Data scientists are experts at deriving valuable insights from large and varied data sets. Learn the most important skills any data scientist needs, from reducing data cleansing time to leveraging visual design best practices to create visualizations viewers can easily understand. This learning path will teach you how to use the advanced features of Tableau including built-in statistical capabilities and data science integrations for R, Python, and MATLAB to turn the results of your data science projects into clear, actionable insights.
+
+This tracks cover
+1. **Getting Started with Tableau Desktop**
+    * Basics of reading data
+    * Introduction to Tableau desktop
+2. **Tableau Fundamentals**
+    * Connect to and Customise Data
+    * Organize Data and Create Filters
+    * Build Common Views
+    * Map Geographic Data
+    * Create Calculated Fields
+    * Apply Table Calculations
+    * Apply Analytics
+    * Work with Multiple Data Sources
+    * Create Dashboards and Stories
+    * Share and Publish Content
+3. **Tableau Intermediate**
+    * Restructure Data and Create Filters
+    * Do more with Data Source
+    * Create Calculated Fields
+    * Control Table Calculations
+    * Create Level of Details(LOD) Expressions
+    * Apply Analytics
+    * Advanced Mapping: Customizing Tableau's Geooding
+    * Advanced Mapping: using a Background Image
+    * Build Advanced Dashboards
+    * Publish and Manage Content
+4. **Getting Started with Tableau Prep Builder**
+5. **Prep Builder**
+6. **Tableau Advanced**
+7. **Visual Analytics**
+
+
+# Analyst Learning Path
+This learning path encompasses the skills every analyst needs, from performing ad hoc analysis for data exploration, to producing well-designed interactive dashboards that present data accurately. Learn to work with complex data sources, use advanced calculations to customize data, leverage advanced features--such as parameters, sets, filters, and forecasting--to build a range of charts and to analyze various types of data, and share actionable data insights within your organization. 
+
+1. **Getting Started with Tableau**
+2. **Connect to And Transfrom Data**
+3. **Create Views and Dashboards**
+4. **Explore and Analyze Data**
+5. **Publish and Manage Content**
+
+
+# Analyst Learning Path
