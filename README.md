@@ -1,5 +1,5 @@
 # TableaU And PowerBI Projects
-* learning from **@TableaU resources**
+* Self Learning from **@TableaU resources**
 
 let me start with amazing Escape room problem... 
 available at link - [link](https://public.tableau.com/app/profile/mark.bradbourne/viz/EscapeRoom/CanYouEscape)
@@ -63,4 +63,14 @@ This learning path encompasses the skills every analyst needs, from performing a
 5. **Publish and Manage Content**
 
 
-# Analyst Learning Path
+# Consumer Learning Path
+All areas of the business rely on consumers, from administrative assistants to C-suite executives. Learn the skills you need to read and interpret data in order to make better, more informed business decisions. This learning path provides you with core competencies, such as navigating Tableau’s interface and foundational data literacy concepts, so you will be able to effectively work with the dashboards and reports others in your organization create.
+
+1. **Introduction to Data Literacy**
+2. **Recognizing Well-Structured Data**
+3. **Exploring Variables and Field Types**
+4. **Explroing Aggregation and Granularity**
+5. **Understanding Distributions**
+6. **Understanding Variation for Wise Comparisions**
+7. **Using Correlation and Regression to Examine Relationships**
+8. **Getting Started with Tableau Cloud**
