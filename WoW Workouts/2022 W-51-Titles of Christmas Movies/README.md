@@ -24,3 +24,6 @@ Now that your data is shaped appropriately, we need to display the data as a vis
 
 
 
+**DataSet**
+
+The dataset for this week can be found on Kaggle at this [link](https://www.kaggle.com/datasets/adityak957/imdb-christmas-movies-from-20162022). The dataset is entitled, IMDB Dataset of All Christmas Movies 2016-2022. Each row of data is a Christmas themed movie.
